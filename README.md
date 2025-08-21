@@ -36,15 +36,15 @@ Net Salary       = Gross Salary – (Tax + Social Security)
 
 ## 🚀 How to Run the Program
 
-1. Save the code in a file named `salary.cpp`.
+1. Save the code in a file named `payroll.cpp`.
 2. Open a terminal/command prompt and navigate to the file’s directory.
 3. Compile the program:
    ```bash
-   g++ salary.cpp -o salary
+   g++ payroll.cpp -o payroll
    ```
 4. Run the program:
    ```bash
-   ./salary
+   ./payroll
    ```
 
 ---
